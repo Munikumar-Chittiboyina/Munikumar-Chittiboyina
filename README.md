@@ -18,11 +18,13 @@
 
 ## 🚀 Projects
 
-- 🍔 Food Delivery Application
-- 🛒 E-Commerce Application
-- 💼 Employee Management System
-- 📝 Quiz Application
-- ❌ Tic-Tac-Toe Game
+* 🍔 [Food Delivery Application](https://github.com/Munikumar-Chittiboyina/Food-Delivery-Application)
+* 🌐 [Personal Portfolio Website](https://github.com/Munikumar-Chittiboyina/Personal-Portfolio-Website)
+* 📝 [Quiz Application](https://github.com/Munikumar-Chittiboyina/Quiz-app)
+* ❌ [Tic-Tac-Toe Game](https://github.com/Munikumar-Chittiboyina/TIC-TAC-TOE)
+* 📋 [Registration Form](https://github.com/Munikumar-Chittiboyina/Registration-Form)
+* 📰 [Multimedia Blog](https://github.com/Munikumar-Chittiboyina/Multimedia-Blog)
+
 
 ---
 
