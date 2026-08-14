@@ -50,8 +50,13 @@ Siddartha Educational Academy Group of Institutions
 
 ---
 
+
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/muni-kumar-chittiboyina/
+<p align="left">
+  <a href="https://www.linkedin.com/in/muni-kumar-chittiboyina/">
+    <img src="https://img.shields.io/badge/LinkedIn-Munikumar%20Chittiboyina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-📧 Email: chittiboyinamunikumar978@gmail.com
+📧 Email: [chittiboyinamunikumar978@gmail.com](mailto:chittiboyinamunikumar978@gmail.com)
