@@ -41,6 +41,12 @@
 
 [![Munikumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munikumar-Chittiboyina\&theme=github)](https://github.com/Munikumar-Chittiboyina)
 
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Munikumar-Chittiboyina\&theme=default)](https://git.io/streak-stats)
+
 
 ## 🎓 Education
 
