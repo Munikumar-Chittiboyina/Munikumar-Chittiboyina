@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋 I'm Munikumar
 
-<!--
-**Munikumar-Chittiboyina/Munikumar-Chittiboyina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Computer Science Engineering  
+💻 Java | Spring Boot | React | MySQL  
+🚀 Building Full Stack Web Applications
+
+---
+
+## 🛠️ Skills
+
+- Java
+- Spring Boot
+- Hibernate
+- REST APIs
+- React
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+- 🍔 Food Delivery Application
+- 🛒 E-Commerce Application
+- 💼 Employee Management System
+- 📝 Quiz Application
+- ❌ Tic-Tac-Toe Game
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science Engineering**  
+Siddartha Educational Academy Group of Institutions  
+2022 – 2026 | CGPA: 8.0
+
+---
+
+## 💼 Internship
+
+**Java Full Stack Developer Intern – Tap Academy**
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/muni-kumar-chittiboyina/
+
+📧 Email: chittiboyinamunikumar978@gmail.com
