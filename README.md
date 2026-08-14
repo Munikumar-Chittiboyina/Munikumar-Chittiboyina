@@ -30,9 +30,7 @@
 
 ## 📊 GitHub Stats
 
-![Munikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munikumar-Chittiboyina&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munikumar-Chittiboyina&layout=compact&theme=default)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munikumar-Chittiboyina&show_icons=true&theme=default)](https://github.com/Munikumar-Chittiboyina)
 
 ---
 ---
