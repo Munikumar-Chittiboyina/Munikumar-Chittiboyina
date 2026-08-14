@@ -1,6 +1,5 @@
 # Hi 👋 I'm Munikumar
 
-
 ### Java Full Stack Developer
 
 🎓 B.Tech Computer Science Engineering  
@@ -9,18 +8,11 @@
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack
 
-- Java
-- Spring Boot
-- Hibernate
-- REST APIs
-- React
-- JavaScript
-- HTML
-- CSS
-- MySQL
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,html,css,mysql,git,github" />
+</p>
 
 ---
 
@@ -39,6 +31,7 @@
 ![Munikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munikumar-Chittiboyina&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munikumar-Chittiboyina&layout=compact&theme=default)
+
 ---
 
 ## 🎓 Education
