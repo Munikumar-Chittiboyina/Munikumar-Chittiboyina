@@ -35,6 +35,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Munikumar-Chittiboyina&layout=compact&theme=default)
 
 ---
+---
+
+## 📈 Contribution Graph
+
+[![Munikumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Munikumar-Chittiboyina\&theme=github)](https://github.com/Munikumar-Chittiboyina)
+
 
 ## 🎓 Education
 
